@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Text to speech</string>
+
+    <string name="bonjpir">Bonjour</string>
+    <string name="good_day">Good Day</string>
+    <string name="welcome">Welcome</string>
+    <string name="complimets">Compliments</string>
+    <string name="regards">Regards</string>
+
+    <string name="bonjpir_bd">(বনজউর)</string>
+    <string name="good_day_bn">(গুড ডে)</string>
+    <string name="welcome_bn">(ওয়েলকাম)</string>
+    <string name="complimets_bn">(কম্প্লিমেন্টস)</string>
+    <string name="regards_bn">(রেগার্ডস)</string>
+
+</resources>
